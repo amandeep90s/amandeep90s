@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amandeep90s
 - 👀 I’m interested in Cricket
-- 🌱 I’m currently learning Flutter and Dart
-- 💞️ I’m looking to collaborate on school management system project.
+- 🌱 I’m currently learning Web Security (Bug Bounty)
+- 💞️ I’m looking for freelancing work.
 - 📫 programmeramandeep@gmail.com
 
 <!---
