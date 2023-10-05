@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @amandeep90s
-- 👀 I’m interested in Cricket
-- 🌱 I’m currently learning Web Security (Bug Bounty)
+- 👋 Hi, I’m Amandeep Singh
+- 👀 I’m interested in learn new skills
+- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking for freelancing work.
 - 📫 programmeramandeep@gmail.com
 
