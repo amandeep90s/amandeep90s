@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amandeep Singh
 - 👀 I’m interested in learn new skills
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking for freelancing work.
 - 📫 amandeepsinghcode@gmail.com
 
