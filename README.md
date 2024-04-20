@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn new skills
 - 🌱 I’m currently learning Typescript
 - 💞️ I’m looking for freelancing work.
-- 📫 programmeramandeep@gmail.com
+- 📫 amandeepsinghcode@gmail.com
 
 <!---
 amandeep90s/amandeep90s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
