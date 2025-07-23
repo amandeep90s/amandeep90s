@@ -15,11 +15,11 @@ I'm a passionate **Full-Stack Developer** with expertise in modern web technolog
 
 ```javascript
 const amandeep = {
-    pronouns: "He/Him",
-    location: "India 🇮🇳",
-    currentFocus: ["Next.js", "Microservices", "Cloud Architecture"],
-    askMeAbout: ["Web Development", "Mobile Apps", "JavaScript", "Laravel", "System Design"],
-    funFact: "I turn coffee into code and bugs into features! ☕️"
+  pronouns: 'He/Him',
+  location: 'India 🇮🇳',
+  currentFocus: ['Next.js', 'Microservices', 'Cloud Architecture'],
+  askMeAbout: ['Web Development', 'Mobile Apps', 'JavaScript', 'Laravel', 'System Design'],
+  funFact: 'I turn coffee into code and bugs into features! ☕️',
 };
 ```
 
@@ -34,6 +34,7 @@ const amandeep = {
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
+
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -43,6 +44,7 @@ const amandeep = {
 </div>
 
 ### ⚡ Frontend
+
 <div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
@@ -52,6 +54,7 @@ const amandeep = {
 </div>
 
 ### 🔧 Backend
+
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
@@ -61,6 +64,7 @@ const amandeep = {
 </div>
 
 ### 🎨 UI Libraries
+
 <div align="left">
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI"/>
   <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
@@ -69,6 +73,7 @@ const amandeep = {
 </div>
 
 ### ☁️ Cloud & DevOps
+
 <div align="left">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
@@ -77,6 +82,7 @@ const amandeep = {
 </div>
 
 ### 🛠️ Development Tools
+
 <div align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" alt="Cursor"/>
@@ -88,44 +94,19 @@ const amandeep = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandeep90s&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandeep90s&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandeep90s&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&border_radius=5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandeep90s&layout=compact&theme=radical&hide_border=false&border_radius=5"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandeep90s&theme=radical" alt="GitHub Streak"/>
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amandeep90s&theme=radical&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=amandeep90s&theme=radical&hide_border=false&border_radius=5" alt="GitHub Streak"/>
 </div>
 
 ## 📈 Contribution Graph
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amandeep90s&theme=github-compact&custom_title=Amandeep's%20Activity%20Graph&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amandeep90s&bg_color=0D1117&color=79FF97&line=79FF97&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
-
-## 🎯 2024 Goals
-
-- [ ] Contribute to 10+ open-source projects
-- [ ] Build and deploy 5 full-stack applications
-- [ ] Master microservices architecture
-- [ ] Learn and implement AI/ML in web projects
-- [ ] Share knowledge through technical blogs
-- [ ] Mentor junior developers
-
-## 💡 Recent Projects Highlights
-
-- 🚀 **ServiceAM Platform** - A comprehensive service management system built with Laravel
-- 🌟 **Modern E-commerce Solution** - Next.js + TypeScript + Tailwind CSS
-- 🔧 **Microservices API Gateway** - Node.js + Express + Docker
-- 📱 **Cross-platform Mobile App** - React Native + Redux Toolkit
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- Coming Soon: Setting up a blog to share development insights!
-<!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Let's Connect!
 
