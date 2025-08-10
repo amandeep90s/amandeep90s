@@ -91,23 +91,6 @@ const amandeep = {
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandeep90s&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&border_radius=5"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandeep90s&layout=compact&theme=radical&hide_border=false&border_radius=5"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=amandeep90s&theme=radical&hide_border=false&border_radius=5" alt="GitHub Streak"/>
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amandeep90s&bg_color=0D1117&color=79FF97&line=79FF97&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
 ## 🤝 Let's Connect!
 
 I'm always excited to connect with fellow developers, discuss new technologies, or collaborate on interesting projects. Feel free to reach out!
