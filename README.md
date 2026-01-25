@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi there 👋, I'm Amandeep Singh
 
-<!--
-**amandeep90s/amandeep90s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Senior Full-Stack Developer | MERN | Laravel | AWS Enthusiast**  
+💻 6+ years of experience building scalable web applications  
+🌍 Based in India | Open to remote & international opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **enterprise-level web applications**
+- 🌱 Learning **AWS (Cloud Practitioner & Developer Associate)** and **React Native**
+- 🧠 Strong experience with **MERN Stack**, **PHP (Laravel, CodeIgniter)**, and **REST APIs**
+- ⚡ Passionate about **clean architecture, performance, and scalability**
+- 🎯 Goal: Build impactful products & grow in cloud-native development
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js, Next.js
+- Tailwind CSS, DaisyUI, Bootstrap
+- Livewire (Volt)
+
+### Backend
+- Node.js, Express, NestJS
+- PHP (Laravel, CodeIgniter)
+- REST APIs, JWT, Sanctum
+
+### Database & Caching
+- PostgreSQL, MySQL, MongoDB
+- Redis
+
+### Real-Time & Messaging
+- Socket.IO
+- WebSockets
+- Pub/Sub (Redis)
+
+### Cloud & DevOps
+- AWS (EC2, S3, IAM, CloudWatch)
+- Docker (basic)
+- CI/CD (GitHub Actions)
+- DigitalOcean
+
+---
+
+## 📦 Notable Projects
+
+- 💬 **WhatsApp-like Real-Time Chat App**  
+  _JWT auth, OTP login, group chat, media upload, Socket.IO_
+
+- 🏢 **Enterprise Job Portal Platform**  
+  _Subscriptions, analytics, role-based access, PostgreSQL_
+
+- 🛒 **UrbanClap-like Marketplace App (Laravel)**  
+  _Multi-role auth, Redis caching, Livewire frontend_
+
+- 🔐 **Secure Digital Asset Sharing Platform**  
+  _Family access, subscriptions, admin panel, Redis & Node.js_
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amandeep90s&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amandeep90s&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: _(add your LinkedIn link here)_
+- 📧 Email: _(add your professional email)_
+- 🌐 Portfolio: _(if you have one)_
+
+---
+
+⭐️ _If you like my work, consider starring my repositories!_
