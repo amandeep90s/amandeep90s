@@ -71,9 +71,7 @@
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: _(add your LinkedIn link here)_
-- 📧 Email: _(add your professional email)_
-- 🌐 Portfolio: _(if you have one)_
+- 💼 [LinkedIn](https://www.linkedin.com/in/amandeep90s/)
 
 ---
 
